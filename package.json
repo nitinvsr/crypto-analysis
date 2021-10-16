@@ -1,0 +1,18 @@
+{
+  "name": "phase1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "influx": "^5.9.2",
+    "lodash": "^4.17.21",
+    "open": "^8.3.0"
+  }
+}
